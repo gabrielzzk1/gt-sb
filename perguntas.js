@@ -21,3 +21,14 @@ criaCartao(
     'Qual é a cor tradicional do carro de polícia?',
     'preto e branco'
 )
+
+criaCartao(
+    'carro'
+    'Qual é o melhor motor 1.0 ou 1.6',
+    'para cidade 1.0 é melhr'
+)
+criaCartao(
+    'carro'
+    'o 1.6 e melhor pra que',
+    'para viajar'
+)
