@@ -1,23 +1,23 @@
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Qual é o nome do carro que foi popularizado como o "carro do povo" na Alemanha?',
+    'Volkswagen Fusca'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual é o nome da montadora de carros que tem como logo o cavalo empinado?',
+    'ferrari'
 )
 
 criaCartao(
     'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Qual é o nome do carro elétrico produzido pela empresa Tesla?',
+    'tesla model s'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Qual é a cor tradicional do carro de polícia?',
+    'preto e branco'
 )
