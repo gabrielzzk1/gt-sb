@@ -62,7 +62,7 @@ body {
     font-weight: 700;
 }
 
-.cartao.hover .cartao__conteudo {
+.cartao.active .cartao__conteudo {
     transform: rotateY(180deg);
 }
 
@@ -72,7 +72,8 @@ body {
     position: absolute;
     height: 100%;
     width: 100%;
-    box-sizing: border-box;
+    box-sizing: border-box
+
 }
 
 .cartao__conteudo__resposta {
